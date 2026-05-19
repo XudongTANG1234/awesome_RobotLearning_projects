@@ -13,6 +13,26 @@ https://github.com/Shreyash-T02/UR20-washing-machine-assembly-mujoco
 ### 2-finger Grippers
 Robotiq 2f140 https://github.com/kaikwan/mujoco_menagerie/tree/2f140_PR
 ### Dexterous hands
+Inspire Hand
+https://github.com/NaCl-1374/inspire_hand_ws
+https://github.com/EuncheolIm/Inspire_hand_description
+https://github.com/Lr-2002/inspire_hand_left
+https://github.com/ookkshirsagar/rh56dfx_description
+
+Leap Hand
+https://github.com/google-deepmind/mujoco_menagerie/tree/main/leap_hand
+
+Shadow dexee
+https://github.com/google-deepmind/mujoco_menagerie/tree/main/shadow_dexee
+
+Shadow hand
+https://github.com/google-deepmind/mujoco_menagerie/tree/main/shadow_hand
+
+Tetheria Aero Hand Open
+https://github.com/google-deepmind/mujoco_menagerie/tree/main/tetheria_aero_hand_open
+
+Allegro Hand
+https://github.com/google-deepmind/mujoco_menagerie/tree/main/wonik_allegro
 
 ## Bases
 ## Manipulators with no-power mobile bases
@@ -43,6 +63,9 @@ https://github.com/RoboVerseOrg/RoboVerse
 
 robomimic
 https://github.com/ARISE-Initiative/robomimic.git
+
+ManiSkill
+https://github.com/haosulab/ManiSkill
 
 # Manipulation
 https://github.com/curieuxjy/Awesome_Manipulation
