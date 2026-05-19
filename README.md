@@ -8,6 +8,7 @@ Robotiq 2f140 https://github.com/kaikwan/mujoco_menagerie/tree/2f140_PR
 
 ## Bases
 ## Manipulators with no-power mobile bases
+https://github.com/personalrobotics/geodude_assets
 
 ## Powered mobile robots
 ### Quadruped robots
@@ -24,6 +25,13 @@ Robotiq 2f140 https://github.com/kaikwan/mujoco_menagerie/tree/2f140_PR
 Robosuite <br>
 https://github.com/ARISE-Initiative/robosuite <br>
 https://robosuite.ai/docs/installation.html
+
+Metaworld <br>
+https://github.com/Farama-Foundation/Metaworld <br>
+https://github.com/Farama-Foundation/Gymnasium-Robotics
+
+RoboVerse <br>
+https://github.com/RoboVerseOrg/RoboVerse 
 
 # Manipulation
 
